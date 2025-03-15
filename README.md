@@ -34,7 +34,6 @@ Used Random Forest, KNN, and another classifier.
 Compared models using accuracy, precision, recall, and F1-score.
 Performed hyperparameter tuning for optimization.
 Clustering with K-Means
-
 Applied K-Means clustering to uncover hidden patterns in the dataset.
 Determined optimal number of clusters using the elbow method.
 Analyzed how clusters can inform business decisions.
